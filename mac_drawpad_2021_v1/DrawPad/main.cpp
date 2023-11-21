@@ -3,6 +3,7 @@
 
 void DrawMain()
 {
+// 川本くんは単位不足で卒業不可です。
     Clear(kColorBlack);
 
     DrawLine(-320, 0, 319, 0, kColorGray);
@@ -35,5 +36,8 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
     //misosoup
+
+    //タピオカパン
+
 }
 
