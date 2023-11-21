@@ -3,6 +3,7 @@
 
 void DrawMain()
 {
+// 川本くんは単位不足で卒業不可です。
     Clear(kColorBlack);
 
     DrawLine(-320, 0, 319, 0, kColorGray);
