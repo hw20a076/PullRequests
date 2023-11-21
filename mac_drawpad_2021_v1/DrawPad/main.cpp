@@ -39,6 +39,8 @@ void DrawMain()
     //misosoup
 
     //タピオカパン
+    
+    //ちんぽう
 
 }
 
